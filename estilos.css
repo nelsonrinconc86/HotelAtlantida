@@ -1,0 +1,27 @@
+/*selector General*/
+
+div {
+    border: 1px solid;
+}
+
+
+/*selector ID*/
+
+#cuerpo-principal {
+    background-color: cadetblue;
+    width: 90%;
+    margin: 0 auto;
+    padding: 2%;
+    box-shadow: 4px 4px 4px red;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+
+/*selector de clase*/
+
+.capas-general {
+    background-color: aquamarine;
+    margin: 5%;
+}
